@@ -19,14 +19,20 @@ Opa, me chamo Dionízio Junior, meus amigos me chamam de Juninho, atualmente nã
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juninho000&theme=dark)](https://github.com/Juninho000/github-readme-stats)
+<a href="https://github.com/Juninho000/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Juninho000&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Juninho000/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juninho000&layout=compact&theme=tokyonight" />
+</a>
 
 ## Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Juninho000&repo=juninho.github.io&theme=dark)](https://github.com/Juninho000/juninho.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Juninho000&repo=juninho.github.io&theme=tokyonight)](https://github.com/Juninho000/juninho.github.io)
 
 ## Contatos
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/dionizio-junior-7b5200241/)
 [<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' height='30'>](https://mail.google.com/mail/u/1/?ogbl#inbox?compose=CllgCKCBkmltPmPSSkGSKVgZcPrcfQbftCNZpCbhdHmwLcCrncKJmqbjMtskczRwDNndpGGBxvV)
+[<img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white' alt='Instagram' height='30'>](https://www.instagram.com/juninho.jpg/)
 
