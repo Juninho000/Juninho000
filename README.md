@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Bio
+## Bio
 
 Opa, me chamo Dionízio Junior, meus amigos me chamam de Juninho, atualmente não trabalho como desenvolvedor, mas atuo na área de TI (Estagiário em Gestão de Projetos) tem alguna meses. No momento estou cursando Ciências da Computação. Estou sempre em busca de obter mais conhecimento e aprender com os erros.
 
@@ -21,12 +21,12 @@ Opa, me chamo Dionízio Junior, meus amigos me chamam de Juninho, atualmente nã
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juninho000&theme=dark)](https://github.com/Juninho000/github-readme-stats)
 
-# Projetos
+## Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Juninho000&repo=juninho.github.io&theme=dark)](https://github.com/Juninho000/juninho.github.io)
 
-# Contatos
+## Contatos
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/dionizio-junior-7b5200241/)
-[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' height='30'>](https://accounts.google.com/SignOutOptions?hl=pt-BR&continue=https://mail.google.com&service=mail)
+[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' height='30'>](https://mail.google.com/mail/u/1/?ogbl#inbox)
 
