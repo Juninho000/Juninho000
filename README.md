@@ -29,7 +29,7 @@ Opa, me chamo Dionízio Junior, meus amigos me chamam de Juninho. Atualmente nã
 ## Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Juninho000&repo=juninho.github.io&theme=tokyonight)](https://github.com/Juninho000/juninho.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Juninho000&repo=juninho.github.io&theme=tokyonight)](https://github.com/Juninho000/Statistical-Calculator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Juninho000&repo=Statistical-Calculator&theme=tokyonight)](https://github.com/Juninho000/Statistical-Calculator)
 
 ## Contatos
 
