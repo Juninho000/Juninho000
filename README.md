@@ -32,7 +32,6 @@ Opa, me chamo Dionízio Junior, meus amigos me chamam de Juninho, atualmente nã
 
 ## Contatos
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/dionizio-junior-7b5200241/)
-[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' height='30'>](https://mail.google.com/mail/u/1/?ogbl#inbox?compose=CllgCKCBkmltPmPSSkGSKVgZcPrcfQbftCNZpCbhdHmwLcCrncKJmqbjMtskczRwDNndpGGBxvV)
-[<img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white' alt='Instagram' height='30'>](https://www.instagram.com/juninho.jpg/)
-
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dionizio-junior-7b5200241/)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto::juninhooliveira192@gmail.com)&nbsp;
+[![Instagram](https://img.shields.io/badge/-Instagram-ff0000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juninho.jpg/)&nbsp;
