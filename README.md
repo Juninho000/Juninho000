@@ -2,7 +2,7 @@
 
 ## Bio
 
-Opa, me chamo Dionízio Junior, meus amigos me chamam de Juninho, atualmente não trabalho como desenvolvedor, mas atuo na área de TI (Estagiário em Gestão de Projetos) tem alguns meses. No momento estou cursando Ciências da Computação. Estou sempre em busca de obter mais conhecimento e aprender com os erros.
+Opa, me chamo Dionízio Junior, meus amigos me chamam de Juninho. Atualmente não trabalho como desenvolvedor, mas atuo na área de TI (Estagiário em Gestão de Projetos) tem alguns meses. No momento estou cursando Ciências da Computação. Estou sempre em busca de obter mais conhecimento e aprender com os erros.
 
 #### Linguagens
 
