@@ -32,6 +32,6 @@ Opa, me chamo Dionízio Junior, meus amigos me chamam de Juninho, atualmente nã
 
 ## Contatos
 
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juninho.jpg/)&nbsp;
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dionizio-junior-7b5200241/)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto::juninhooliveira192@gmail.com)&nbsp;
-[![Instagram](https://img.shields.io/badge/-Instagram-ff0000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juninho.jpg/)&nbsp;
