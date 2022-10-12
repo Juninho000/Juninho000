@@ -20,9 +20,9 @@ Opa, me chamo Dionízio Junior, meus amigos me chamam de Juninho. Atualmente nã
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 <div align="center">
-		<a href="https://github.com/GuilhermeZety">
-			<img height="200em" width="48%"  src="https://github-readme-stats.vercel.app/api?username=Juninho000&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-			<img height="200em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juninho000&layout=compact&langs_count=7&theme=tokyonight"/>
+	<a href="https://github.com/GuilhermeZety">
+		<img height="185em" width="45%"  src="https://github-readme-stats.vercel.app/api?username=Juninho000&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+		<img height="185em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juninho000&layout=compact&langs_count=7&theme=tokyonight"/>
 		</a>
 </div>
   
