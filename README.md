@@ -19,13 +19,13 @@ Opa, me chamo Dionízio Junior, meus amigos me chamam de Juninho, atualmente nã
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-<a href="https://github.com/Juninho000/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Juninho000&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Juninho000/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juninho000&layout=compact&theme=tokyonight" />
-</a>
-
+<div align="center">
+		<a href="https://github.com/GuilhermeZety">
+			<img height="200em" width="48%"  src="https://github-readme-stats.vercel.app/api?username=GuilhermeZety&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+			<img height="200em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeZety&layout=compact&langs_count=7&theme=dracula"/>
+		</a>
+</div>
+  
 ## Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Juninho000&repo=juninho.github.io&theme=tokyonight)](https://github.com/Juninho000/juninho.github.io)
