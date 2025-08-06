@@ -2,22 +2,7 @@
 
 ## Bio
 
-Opa, me chamo Dionízio Junior, meus amigos me chamam de Juninho. Atualmente não trabalho como desenvolvedor, mas atuo na área de TI (Estagiário em Gestão de Projetos) tem alguns meses. No momento estou cursando Ciências da Computação no 5° Semestre. Estou sempre em busca de obter mais conhecimento e aprender com os erros.
-
-#### Linguagens
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-#### IDE's
-
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+Opa, me chamo Dionízio Junior, meus amigos me chamam de Juninho. Atualmente não trabalho como desenvolvedor, mas já na área de TI (Estagiário em Gestão de Projetos). No momento estou cursando Ciências da Computação no 8° Semestre. Estou sempre em busca de obter mais conhecimento e aprender com os erros.
 
 <div align="center">
 	<a href="https://github.com/Juninho000">
